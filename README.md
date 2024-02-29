@@ -33,8 +33,8 @@ Meet the brilliant minds behind ADAD:
 7. **[Khaled Mahmoud Basiony](https://github.com/KhaledBasiony)**
 8. **[Mohamed Mohamed Hawas](https://github.com/Mohamed-Hawas)**
 9. **[Mennatullah Farag Mahmoud](https://github.com/MennatullahFarag)**
-10.**[Tahany Yasser Morsy](https://github.com/tahany682)**
-11.**[Mariam Hossam Eldeen Saleh](https://github.com/MariamHossamSaleh)**
+10. **[Tahany Yasser Morsy](https://github.com/tahany682)**
+11. **[Mariam Hossam Eldeen Saleh](https://github.com/MariamHossamSaleh)**
 
 ## Mentorship
 
