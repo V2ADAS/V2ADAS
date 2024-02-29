@@ -22,7 +22,7 @@ Check our [Project Timeline](link-to-google-drive-timeline) for a detailed sched
 
 ## Team Members
 
-Meet the brilliant minds behind ADAD:
+Meet the brilliant minds behind ADAS:
 
 1. **[Mohammed Eid Abdelmeguid](https://github.com/M0hamed-Eid)**
 2. **[Toka Mohamed Bishara](https://github.com/Tokambishara)**
