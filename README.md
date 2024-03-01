@@ -1,6 +1,6 @@
-# ADAS - Autonomous Driving Assistance System
+# ADAS - Advanced Driver Assistance System
 
-Welcome to the GitHub repository for the Graduation Project ADAS - an Autonomous Driving Assistance System developed by Team Vehigle!
+Welcome to the GitHub repository for the Graduation Project ADAS - an Advanced Driver Assistance System developed by Team Vehigle!
 
 ## Project Overview
 
