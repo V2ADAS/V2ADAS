@@ -1,10 +1,10 @@
-# ADAD - Autonomous Driving Assistance System
+# ADAS - Autonomous Driving Assistance System
 
-Welcome to the GitHub repository for the Graduation Project ADAD - an Autonomous Driving Assistance System developed by Team Vehigle!
+Welcome to the GitHub repository for the Graduation Project ADAS - an Autonomous Driving Assistance System developed by Team Vehigle!
 
 ## Project Overview
 
-ADAD is an advanced system designed to enhance vehicle safety and autonomy. Our features include:
+ADAS is an advanced system designed to enhance vehicle safety and autonomy. Our features include:
 
 - **Auto Parking:** Effortlessly park your vehicle with our automated parking system.
 - **Lane Keeping:** Stay safely within your lane with our advanced lane-keeping technology.
@@ -42,7 +42,7 @@ We are proud to have mentorship from [Valeo](https://www.valeo.com/en/), providi
 
 ## Sponsorship
 
-This project is sponsored by [EME](https://eui.edu.eg/en), supporting us in bringing ADAD to life.
+This project is sponsored by [EME](https://eui.edu.eg/en), supporting us in bringing ADAS to life.
 
 ## Communication
 
